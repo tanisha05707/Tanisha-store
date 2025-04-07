@@ -1,0 +1,23 @@
+header{
+    background-color: #ff9d09;
+    color: white;
+    padding: 12px;
+    text-align: center;
+}
+
+.text{
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 0px 0px 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer{
+    margin: 20px;
+    padding: 26px;
+    background-color: #ff9d09;
+    text-align: center;
+    font-size: 18px;
+}

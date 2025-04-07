@@ -1,0 +1,114 @@
+.header{
+    height: 100px;
+    width: 1338px;
+    border: solid 1px rgb(252, 246, 246);
+    margin: auto;
+    background-color: #ff9d09;
+}
+.logo{
+    height: 79px;
+    width: 100px;
+    border: solid 1px rgb(231, 225, 225);
+    text-align: center;
+    padding-top: 20px;
+    float:left
+}
+.logo_text{
+    height: 69px;
+    width: 393.5px;
+    border: solid 1px rgb(252, 246, 246);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    float:left;
+    text-align: center;
+    padding-top: 30px; 
+    letter-spacing: 2px;
+    font-weight:bold;
+    color: #faf9f8;
+}
+.menu{
+    height: 99px;
+    width: 838px;
+    border: solid 1px rgb(252, 246, 246);
+    float: left;
+    
+}
+.outer_ul{
+    list-style: none;
+}
+.menu_item{
+    border: solid 2px rgb(252, 246, 246);
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 5px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    background-color: #f7bc4f;
+}
+.center_section{
+    height: 350px;
+    width: 1338px;
+    background-color: #fcf3cf;
+    text-align: center;
+    padding-top: 90pxpx;
+    color: rgb(238, 204, 142);
+    margin: auto;
+}
+.product_section{
+    height:300px;
+    width: 1338px;
+    margin:auto;
+    border: solid 1px #def198;
+    margin-top: 10px;
+    background-color: #def198;
+}
+
+.product_item{
+    height: 270px;
+    width:auto;
+    text-align: center;
+    border: solid 1px white;
+    color: rgb(17, 15, 15);
+    border-radius: 10px;
+    background-color: #ebe851 
+}
+
+button{
+    border-radius: 15px;
+    background-color: white;
+    color: black;
+}
+
+.footer{
+    height: 50px;
+    width: 1100px;
+    margin: auto;
+    border: solid 2px rgb(27, 26, 26);
+    margin-top: 30px;
+    color: rgb(168, 153, 153);
+    font-size: 13px;
+    padding-top: 8px;
+    border-radius: 15px;
+}
+
+.btn{
+    width:300px;
+    border: solid 3px black;  
+    margin: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 20px;
+}
+
+.section_last{
+    height: 230px;
+    width: 1338px;
+    background-color: #fff59b;
+    text-align: center;
+    padding-top: 20px;
+    margin: auto;
+    border: solid 1px #fff59b;
+}
